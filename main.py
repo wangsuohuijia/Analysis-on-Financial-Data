@@ -1,7 +1,5 @@
 """
-Group 6:
-    authors: Ang Li,           17203382
-             Shuhong Jiang,    15202005
+    authors:
              Suohuijia Wang,   17200170
 """
 
